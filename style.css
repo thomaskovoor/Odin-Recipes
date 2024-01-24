@@ -1,0 +1,20 @@
+*{
+    background-color: #202A25;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:#FBFFF1;
+
+}
+
+.listItems,.list {
+font-size: 25px;
+color:#FBFFF1;
+
+}
+
